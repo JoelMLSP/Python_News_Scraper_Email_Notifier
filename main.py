@@ -54,6 +54,5 @@ server.ehlo()
 server.starttls()
 server.login(FROM, PWD)
 server.sendmail(FROM, TO, msg.as_string())
-
 print ('Email sent...')
 server.quit()
