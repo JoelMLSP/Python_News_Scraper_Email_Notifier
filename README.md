@@ -80,7 +80,8 @@ python script.py
 
 This was a cool project where I got to mix **web scraping, automation, and security best practices**. It’s a great starting point for more advanced automation projects. If you have any ideas or improvements, feel free to contribute!
 
-## Author
+Example of how sent email will look:
 
-Joel El Aziz
+![image](https://github.com/user-attachments/assets/8e72fca5-fc08-418b-b072-d4626b9e2def)
+
 
