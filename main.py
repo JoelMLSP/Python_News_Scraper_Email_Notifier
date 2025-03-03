@@ -32,9 +32,6 @@ cnt = extract_news('https://news.ycombinator.com/')
 content += cnt
 content += ('<br>------<br>')
 content += ('<br><br>End of Message')
-#i want to print a preview to test that its working in the console
-print(content)
-
 
 
 #send email
