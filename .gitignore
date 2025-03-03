@@ -1,0 +1,6 @@
+// Purpose: Ignore files and directories that should not be included in the git repository
+node_modules
+.DS_Store
+.env
+.idea
+.vscode
